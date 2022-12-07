@@ -1,9 +1,7 @@
-#define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <locale.h>
-#define _USE_MATH_DEFINES
 void tabl(int a[5][8]);
 void menu(char n);
 void main()
